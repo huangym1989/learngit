@@ -1,1 +1,3 @@
-;console.log("cccccccccccccccccccccccccc");
+console.log("cccccccccccccccccccccccccc");
+
+var arr = ['nihao',true];
